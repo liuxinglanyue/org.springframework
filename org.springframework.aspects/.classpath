@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.springframework.beans"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.springframework.context"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.springframework.context.support"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.springframework.core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.springframework.transaction"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.springframework.test"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.springframework.orm"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.springframework.aop"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring-3.1.4"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
